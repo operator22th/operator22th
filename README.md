@@ -15,3 +15,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/operator22th/operator22th/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/operator22th/operator22th/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </picture>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=operator22th&column=8&row=1)](https://github.com/operator22th)
